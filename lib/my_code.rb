@@ -11,11 +11,11 @@ end
 
 def map_to_no_change(source_array)
   i = 0
-  new_array
+  new_array = []
 
   while i < source_array.length do
     new array << source_array[i]
     i += 1
   end
   new_array
-end  
+end
