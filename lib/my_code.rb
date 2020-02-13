@@ -54,3 +54,14 @@ def reduce_to_total(source_array, starting_point=0)
   end
   result
 end
+
+def reduce_to_all_true(source_array)
+  i = 0
+  result = nil
+
+  while i < + source_array.length do
+    
+
+    i += 1
+  end
+end
